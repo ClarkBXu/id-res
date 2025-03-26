@@ -1,0 +1,14 @@
+Name	Email	Phone	Address	Timestamp (MT)	Activity	Change Type	Changed Value	IP Address
+Grace Kim	grace.kim@gmail.com	+1-617-555-2345	789 Pine St, Boston, MA	2024-12-01 01:40	Login Attempt			198.51.100.44
+Grace Kim	grace.kim@gmail.com	+1-617-555-2345	789 Pine St, Boston, MA	2024-12-01 01:42	Add second email	Email	grace.kim@healthcare.com	198.51.100.44
+Jane Doe	jane.doe@hotmail.com	+1-202-555-6789	456 Oak St, Seattle, WA	2024-12-01 03:16	Login Attempt			109.201.127.2
+David Lee	david.lee@gmail.com	+1-415-555-8901	654 Elm St, San Francisco	2024-12-01 03:30	Login Attempt			109.201.127.2
+Jane Doe	jane.doe@hotmail.com	+1-512-555-1234	456 Oak St, Seattle, WA	2024-12-01 03:35	Profile Update	Email	h1234llk@gmail.com	149.62.55.55
+John Smith	john.smith@gmail.com	+1-303-555-9876	123 Main St, Denver, CO	2024-12-01 11:32	MFA Setup			104.28.14.45
+John Smith	john.smith@gmail.com	+1-303-555-1234	123 Main St, Denver, CO	2024-12-01 11:15	Password Change			104.28.14.45
+Bob Brown	bob.brown@gmail.com	+1-303-678-9012	111 Maple St, Boulder, CO	2024-12-01 11:20	Profile Update	Email	bob.b@mailinator.com	45.63.12.54
+Alice Johnson	alice.j@gmail.com	+1-512-987-6543	789 Pine St, Austin, TX	2024-12-01 12:30	Profile Update	Address	PO Box 456; Birch St, Boston, MA	45.63.12.54
+Eve Johnson	eve.j@example.com	+1-602-555-4321	404 Maple St, Phoenix, AZ	2024-12-01 13:31	Password Change			70.174.219.67
+Frank Harris	frank.h@example.com	+1-213-555-6789	555 Cedar St, Los Angeles	2024-12-01 14:40	Profile Update	Phone	+7-495-555-5678	54.22.4.6
+Carol White	carol.white@example.com	+1-773-555-5678	202 Birch St, Chicago, IL	2024-12-01 15:25	Profile Update	Name	Carol Smith	184.154.83.119
+Grace Kim	grace.kim@healthcare.com	+1-617-555-2345	789 Pine St, Boston, MA	2024-12-01 16:42	Login Attempt			198.51.100.44
