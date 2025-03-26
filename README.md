@@ -17,7 +17,7 @@ pandas, sklearn, json, requests, base64, matplotlib, seaborn, phonenumbers, pgeo
 
 ## Details
 Notebook Data Source: <br>
-identity-set.csv
+identity-set (in base64)
 
 Notebook Name: <br>
 detection-notebook.ipynb
